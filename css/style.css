@@ -1,0 +1,53 @@
+.fundo_nave{
+    background-color: #90EE90;
+}
+
+
+.paragrafo{
+    color: black;
+	font-family: 'Fuzzy Bubbles', cursive;
+	font-size: 20px;
+}
+
+
+.card-text{
+    color: black;
+	font-family: 'Fuzzy Bubbles', cursive;
+	font-size: 20px;
+}
+
+    
+.rodape{
+    margin: 20px;
+}
+
+.h1{
+    font-family: Comic Sans MS, Comic Sans, cursive	;
+    text-align: center;
+    font-size: 320%;
+    margin-top: 20px;
+}
+
+.imagens{
+    margin: 5%;
+}
+
+.icone{
+    width: 40%;
+}
+
+.info{
+    margin-top: 50px;
+}
+
+.porti{
+    margin-top: 50px;
+}
+
+.curio{
+    margin-top: 50px;
+}
+
+.sobre{
+    margin-top: 50px;
+}
